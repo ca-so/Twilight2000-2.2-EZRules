@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "15ef9a3cd9ec2822",
+        "id": "e8ee9997b04764e8",
         "type": "tabs",
         "children": [
           {
-            "id": "11d8a8916547a5d4",
+            "id": "88aa8b41a9f5f4c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rollespil/Twilight 2000 2nd Edition/Character Creation.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Character Creation"
+              "title": "New tab"
             }
           }
         ]
@@ -165,12 +161,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "11d8a8916547a5d4",
+  "active": "88aa8b41a9f5f4c5",
   "lastOpenFiles": [
+    "Rollespil/Twilight 2000 2nd Edition/Character Creation.md",
+    "Rollespil/Twilight 2000 2nd Edition/PDF Locations/Twilight 2000 2nd/Twilight 2000 - Corebook - Core Rulebook v2.2 {GDW2000}.pdf",
+    "Rollespil/Twilight 2000 2nd Edition/Pictures/vehicle_roll_table.png",
+    "Rollespil/Twilight 2000 2nd Edition/Rules.md",
     "Rollespil/Twilight 2000 2nd Edition/Pictures/term_skill_levels.png",
     "Rollespil/Twilight 2000 2nd Edition/term_skill_levels.png",
     "Rollespil/term_skill_levels.png",
@@ -180,15 +179,10 @@
     "Rollespil/secondary_activities.png",
     "secondary_activities.png",
     "Rollespil/Twilight 2000 2nd Edition/readme.md",
-    "Rollespil/Twilight 2000 2nd Edition/Character Creation.md",
     "Rollespil/Twilight 2000 2nd Edition/Pictures/background_skill_list.png",
-    "Rollespil/Twilight 2000 2nd Edition/background_skill_list.png",
-    "Rollespil/background_skill_list.png",
     "Rollespil/Twilight 2000 2nd Edition/Pictures",
-    "Rollespil/Twilight 2000 2nd Edition/Rules.md",
     "Character.md",
     "Rollespil/Twilight 2000 2nd Edition/PDF Locations/Twilight 2000 2nd/Twilight 2000 - Corerules - Player's Guide v2.2 {FFE2099}.pdf",
-    "Rollespil/Twilight 2000 2nd Edition/PDF Locations/Twilight 2000 2nd/Twilight 2000 - Corebook - Core Rulebook v2.2 {GDW2000}.pdf",
     "PDF Locations/Twilight 2000 2nd/Small arms %26 equitment/p1.doc.md",
     "PDF Locations/Twilight 2000 2nd/Small arms %26 equitment",
     "PDF Locations/Twilight 2000 2nd",
