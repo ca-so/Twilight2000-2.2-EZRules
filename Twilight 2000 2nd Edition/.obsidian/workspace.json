@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "c7e770919fd08f94",
+    "id": "f7336909ea2c7014",
     "type": "split",
     "children": [
       {
-        "id": "e8ee9997b04764e8",
+        "id": "b3a430d8eb50701d",
         "type": "tabs",
         "children": [
           {
-            "id": "88aa8b41a9f5f4c5",
+            "id": "12fe8d974f784eba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rollespil/Twilight 2000 2nd Edition/Character Creation.md",
+                "file": "For The Player/Character Creation.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d7d7b5bd704d7c5f",
+    "id": "6edfcff5d5ce00ca",
     "type": "split",
     "children": [
       {
-        "id": "0a7d7f864020d188",
+        "id": "04524c3203a98a6e",
         "type": "tabs",
         "children": [
           {
-            "id": "665a41bac10300d8",
+            "id": "62655b8b92a9e061",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "c15275e46dfcef2a",
+            "id": "af9b0d8bdca4b992",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "8ef2f68b6b57d931",
+            "id": "b83609ba1744f6e9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "d3c082a3ee85af1c",
+    "id": "78e14ef3e3076476",
     "type": "split",
     "children": [
       {
-        "id": "6bd2984a5236c729",
+        "id": "06b6eb7f8227b7aa",
         "type": "tabs",
         "children": [
           {
-            "id": "c665daa5fe93771a",
+            "id": "593a57e0a351d9ac",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rollespil/Twilight 2000 2nd Edition/Character Creation.md",
+                "file": "For The Player/Character Creation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,12 +108,12 @@
             }
           },
           {
-            "id": "cfb99f14778f3b4d",
+            "id": "8cd9397b91c4af20",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rollespil/Twilight 2000 2nd Edition/Character Creation.md",
+                "file": "For The Player/Character Creation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -122,7 +122,7 @@
             }
           },
           {
-            "id": "661c2891784770b1",
+            "id": "42df017ce84fd48f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,12 +137,12 @@
             }
           },
           {
-            "id": "fb3080d649dc6f8f",
+            "id": "00c0789e8881814c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rollespil/Twilight 2000 2nd Edition/Character Creation.md",
+                "file": "For The Player/Character Creation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -168,34 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88aa8b41a9f5f4c5",
+  "active": "12fe8d974f784eba",
   "lastOpenFiles": [
-    "Rollespil/Twilight 2000 2nd Edition/Rules.md",
-    "Rollespil/Twilight 2000 2nd Edition/Character Creation.md",
-    "Rollespil/Twilight 2000 2nd Edition/readme.md",
-    "Rollespil/Twilight 2000 2nd Edition/Rolling For Things.md",
-    "Rollespil/Twilight 2000 2nd Edition/Pictures/task_difficulty_levels.png",
-    "Rollespil/Twilight 2000 2nd Edition/Rolling for things",
-    "Rollespil/Twilight 2000 2nd Edition/PDF Locations/Twilight 2000 2nd/Twilight 2000 - Corebook - Core Rulebook v2.2 {GDW2000}.pdf",
-    "Rollespil/Twilight 2000 2nd Edition/Pictures/vehicle_roll_table.png",
-    "Rollespil/Twilight 2000 2nd Edition/Pictures/term_skill_levels.png",
-    "Rollespil/Twilight 2000 2nd Edition/term_skill_levels.png",
-    "Rollespil/term_skill_levels.png",
-    "term_skill_levels.png",
-    "Rollespil/Twilight 2000 2nd Edition/Pictures/secondary_activities.png",
-    "Rollespil/Twilight 2000 2nd Edition/secondary_activities.png",
-    "Rollespil/secondary_activities.png",
-    "secondary_activities.png",
-    "Rollespil/Twilight 2000 2nd Edition/Pictures",
-    "Character.md",
-    "Rollespil/Twilight 2000 2nd Edition/PDF Locations/Twilight 2000 2nd/Twilight 2000 - Corerules - Player's Guide v2.2 {FFE2099}.pdf",
-    "PDF Locations/Twilight 2000 2nd/Small arms %26 equitment/p1.doc.md",
-    "PDF Locations/Twilight 2000 2nd/Small arms %26 equitment",
-    "PDF Locations/Twilight 2000 2nd",
-    "PDF Locations",
-    "Rollespil/Twilight 2000 2nd Edition/PDF Locations/Twilight 2000 2nd/Twilight 2000 - Character Sheet 02.pdf",
-    "Rollespil/Twilight 2000 2nd Edition/PDF Locations/Twilight 2000 2nd/Twilight 2000 - Character Sheet 01.pdf",
-    "Rollespil/Twilight 2000 2nd Edition/PDF Locations/Twilight 2000 2nd/Small arms & equitment/Other/Twilight 2000 - Submachineguns.pdf",
-    "Welcome.md"
+    "Asset Location/PDF Locations/Twilight 2000 2nd/Twilight 2000 - Corebook - Core Rulebook v2.2 {GDW2000}.pdf",
+    "For The Player/Character Creation.md"
   ]
 }
