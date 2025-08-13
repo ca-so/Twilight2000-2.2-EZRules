@@ -1,6 +1,6 @@
 Here are the character sheets:
-[Character Sheet Usable](./PDF%20Locations/Twilight%202000%202nd/Twilight%202000%20-%20Character%20Sheet%2001.pdf)
-[Character Sheet Unusable](./PDF%20Locations/Twilight%202000%202nd/Twilight%202000%20-%20Character%20Sheet%2002.pdf)
+[Character Sheet Usable](Twilight%202000%202nd%20Edition/Asset%20Location/PDF%20Locations/Twilight%202000%202nd/Twilight%202000%20-%20Character%20Sheet%2001.pdf)
+[Character Sheet Unusable](Twilight%202000%202nd%20Edition/Asset%20Location/PDF%20Locations/Twilight%202000%202nd/Twilight%202000%20-%20Character%20Sheet%2002.pdf)
 
 This is what we have to go through to create a character:
 - Background: Decide on nationality, gender and name
@@ -70,7 +70,7 @@ For the 1st term, your character gains a fixed amount of skill levels. In the fo
 ![[term_skill_levels.png]]
 *There are some additional rules for these extra skill levels, but I have decided that they are too complicated for no reason. They have therefore been removed.*
 
-You can find all the available careers on page 31 in the [Core Rulebook PDF](./PDF%20Locations/Twilight%202000%202nd/Twilight%202000%20-%20Corebook%20-%20Core%20Rulebook%20v2.2%20%7BGDW2000%7D.pdf) and what the requirements are to enter that career.
+You can find all the available careers on page 31 in the [Core Rulebook PDF](Twilight%202000%20-%20Corebook%20-%20Core%20Rulebook%20v2.2%20{GDW2000}.pdf) and what the requirements are to enter that career.
 
 ### Step 3:
 Once you have chosen a career and a secondary activity, added all the stats from that term, it is time to roll to see if you get promoted! Not all careers have promotions, but if they do they will have a special Promotion tab listed.
@@ -121,7 +121,7 @@ These contacts can either be a generic contact or a solid contact.
 
 Generic Contacts:
 These are assigned during the characters creation. These are listed as what they did before the war.
-There are some examples of what a character might be doing after the war in the [Core Rulebook PDF](./PDF%20Locations/Twilight%202000%202nd/Twilight%202000%20-%20Corebook%20-%20Core%20Rulebook%20v2.2%20%7BGDW2000%7D.pdf) on page 23.
+There are some examples of what a character might be doing after the war in the [Core Rulebook PDF](Twilight%202000%20-%20Corebook%20-%20Core%20Rulebook%20v2.2%20{GDW2000}.pdf) on page 23.
 
 Solid Contacts:
 This is a contact that has been fledged out more and has been given skills, attributes, a suitable background history and so fourth.
@@ -213,7 +213,7 @@ American quartermasters are a bit more generous, so US characters receive an add
 1 X thermal fatigues
 1 X kevlar vest
 
-The personal weapons can be chosen from page 51 in the [Core Rulebook PDF](./PDF%20Locations/Twilight%202000%202nd/Twilight%202000%20-%20Corebook%20-%20Core%20Rulebook%20v2.2%20%7BGDW2000%7D.pdf)
+The personal weapons can be chosen from page 51 in the [Core Rulebook PDF](Twilight%202000%20-%20Corebook%20-%20Core%20Rulebook%20v2.2%20{GDW2000}.pdf)
 The stats for the basic load can be found on page 64 in the PDF.
 A character may only choose a weapon from the country that they are from during creation.
 ### Transportation And Animals
@@ -243,3 +243,4 @@ Since your characters usually start the game on the run, only equipment that can
 
 If a new character is introduced, they cannot spawn with a vehicle (except with a motorcycle or similar) and can only carry the equipment they can carry on their person.
 However, the referee will usually allow the extra equipment they want to buy, to be airdropped in close by or as a hidden stash for the players to find.
+

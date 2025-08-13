@@ -1,13 +1,13 @@
 All the rulebooks and files we have access to, sorted into categories.
-Read the [readme file](readme) to get an overview of what is necessary to read and what is just filler or addons for later.
+Read the [readme file](Read%20Me%20First!.md) to get an overview of what is necessary to read and what is just filler or addons for later.
 
-[Core Rulebook PDF](./PDF%20Locations/Twilight%202000%202nd/Twilight%202000%20-%20Corebook%20-%20Core%20Rulebook%20v2.2%20%7BGDW2000%7D.pdf)
+[Core Rulebook PDF](Twilight%202000%20-%20Corebook%20-%20Core%20Rulebook%20v2.2%20{GDW2000}.pdf)
 
 # Character Sheets
-[Character Sheet Usable](./PDF%20Locations/Twilight%202000%202nd/Twilight%202000%20-%20Character%20Sheet%2001.pdf)
-[Character Sheet Unusable](./PDF%20Locations/Twilight%202000%202nd/Twilight%202000%20-%20Character%20Sheet%2002.pdf)
+[Character Sheet Usable](Twilight%202000%202nd%20Edition/Asset%20Location/PDF%20Locations/Twilight%202000%202nd/Twilight%202000%20-%20Character%20Sheet%2001.pdf)
+[Character Sheet Unusable](Twilight%202000%202nd%20Edition/Asset%20Location/PDF%20Locations/Twilight%202000%202nd/Twilight%202000%20-%20Character%20Sheet%2002.pdf)
 
-Click [here](Character%20Creation) for how to create your character.
+Click [here](Character%20Creation.md) for how to create your character.
 
 # Extra Stuff
 ## Weapons

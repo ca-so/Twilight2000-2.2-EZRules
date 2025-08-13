@@ -66,3 +66,44 @@ I don't understand this one and don't plan on using it..
 It is on page 136 if anyone wants to write it out here for future use.
 
 #### Opposition
+In some cases, two character might be competing or working against each other during a task. This is handled one of three ways.
+
+The first way is when two characters are working directly against each other, like one is trying to push open a door, while another is trying to hold it closed.
+In this case the asset used is the attempting characters asset minus the opposing characters asset.
+If the calculated asset equal 0 or lower, the opposing character automatically wins.
+
+The second way, is when two characters are competing to complete a task first, that is possible to fail. Like trying to solve a math problem, to see who is fastest.
+Here they both roll as normal, and the one lowest beneath their asset score, wins.
+If it is a tie, roll again. If one or both fail, it is decided like that.
+
+The third case, is one where one has to succeed. Like a footrace.
+The characters roll as above. If both fail, the one who is closest to succeeding, wins.
+
+#### Outstanding Success And Catastrophic Failure
+Outstanding success:
+This is when a character succeeds a roll by beating it with 10 or more.
+So if your asset number is 20 and you roll a 9, that is an outstanding success.
+When this happens, the GM will make something extra good happen.
+
+Catastrophic failure:
+This is when a character fails a roll by 10 or more.
+When this happens, you roll again against the same asset. If they fail again, it is a catastrophic failure and something bad happens.
+If you succeed the second roll, it is just a normal failure.
+
+#### Time Required
+This is determined by the referee. However a outstanding success or a catastrophic failure might increase or decrease the taken necessary to complete the task.
+
+#### Uncertain Tasks
+Sometimes a player will not know immediately if a task succeeded or not. This is up to the referee to determine what happens
+
+Here is one way to decide what happens mentioned in the [Core Rulebook PDF](Twilight%202000%20-%20Corebook%20-%20Core%20Rulebook%20v2.2%20{GDW2000}.pdf) :
+Both the player and the referee roll against the asset, the referees roll being hidden.
+If both fail the result is no truth be told or nothing good happens, like an NPC lying to them or the motor the character just repaired, breaks down.
+
+If only one fails, a half truth is given.
+Here the players know they failed, but the NPC might not lie or tell them something somewhat truthful.
+
+If both succeed, a full truth is given.
+Here the players know they succeeded, but may not know what the referee rolled, thereby not knowing if it is 100% correct or there is some lie to what is being told.
+The referee will however tell them the correct information.
+
