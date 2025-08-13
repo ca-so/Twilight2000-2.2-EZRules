@@ -6,6 +6,7 @@ You only need to download the folder "ttrpg_notes" and use it as a vault in Obsi
 Everything from the original PDF's, to guides on how to do everything in the game is there (or will be added if it's not there yet).
 
 Here is a guide on how to set it all up as well, including how to download the files:
+
 https://docs.google.com/document/d/1cKaYIJ3TDrfmao-5BRmBhpUjFbGWdr0qkoDEXpOcgIA/edit?usp=sharing
 
 Sorry for using Google Docs, did not know of any other service that I could easily use :C
