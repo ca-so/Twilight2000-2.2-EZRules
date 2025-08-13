@@ -17,7 +17,7 @@ For GM'ing, you should read the same pages as the players and the following:
 - **Flavour**: Page 223 - 246
 - **Technical Tables**: Page 211 - 222
 
-However, there will eventually be guides for everything in this Obsidian vault. So don't stress :3
+Anyway, will also make easily accessible guides for what the GM needs :3
 # Secrets
 
 

@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0f4c68a8ea499cab",
@@ -169,5 +169,16 @@
     }
   },
   "active": "741802d302107480",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Twilight 2000 2nd Edition/Rolling For Things.md",
+    "Twilight 2000 2nd Edition/Rules.md",
+    "Twilight 2000 2nd Edition/Pictures/task_difficulty_levels.png",
+    "Twilight 2000 2nd Edition/PDF Locations/Twilight 2000 2nd/Source books/Twilight 2000 - East Europe Sourcebook {GDW2017}.pdf",
+    "Twilight 2000 2nd Edition/PDF Locations/Twilight 2000 2nd/Twilight 2000 - Special Operations {GDW2012}.pdf",
+    "Twilight 2000 2nd Edition/PDF Locations/Twilight 2000 2nd/Twilight 2000 - GDW2018 Nautical Aviation Handbook.pdf",
+    "Twilight 2000 2nd Edition/PDF Locations/Twilight 2000 2nd/Twilight 2000 - GDW2018 Nautical Aviation Handbook(1).pdf",
+    "Twilight 2000 2nd Edition/PDF Locations/Twilight 2000 2nd/Twilight 2000 - GDW2017 East Europe Sourcebook.pdf",
+    "Twilight 2000 2nd Edition/PDF Locations/Twilight 2000 2nd/Twilight 2000 - GDW2012 Special Operations.pdf",
+    "Twilight 2000 2nd Edition/readme.md"
+  ]
 }

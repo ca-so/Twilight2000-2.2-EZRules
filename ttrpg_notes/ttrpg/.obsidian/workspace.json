@@ -11,10 +11,14 @@
             "id": "88aa8b41a9f5f4c5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Rollespil/Twilight 2000 2nd Edition/Character Creation.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Character Creation"
             }
           }
         ]
@@ -166,10 +170,14 @@
   },
   "active": "88aa8b41a9f5f4c5",
   "lastOpenFiles": [
+    "Rollespil/Twilight 2000 2nd Edition/Rules.md",
     "Rollespil/Twilight 2000 2nd Edition/Character Creation.md",
+    "Rollespil/Twilight 2000 2nd Edition/readme.md",
+    "Rollespil/Twilight 2000 2nd Edition/Rolling For Things.md",
+    "Rollespil/Twilight 2000 2nd Edition/Pictures/task_difficulty_levels.png",
+    "Rollespil/Twilight 2000 2nd Edition/Rolling for things",
     "Rollespil/Twilight 2000 2nd Edition/PDF Locations/Twilight 2000 2nd/Twilight 2000 - Corebook - Core Rulebook v2.2 {GDW2000}.pdf",
     "Rollespil/Twilight 2000 2nd Edition/Pictures/vehicle_roll_table.png",
-    "Rollespil/Twilight 2000 2nd Edition/Rules.md",
     "Rollespil/Twilight 2000 2nd Edition/Pictures/term_skill_levels.png",
     "Rollespil/Twilight 2000 2nd Edition/term_skill_levels.png",
     "Rollespil/term_skill_levels.png",
@@ -178,8 +186,6 @@
     "Rollespil/Twilight 2000 2nd Edition/secondary_activities.png",
     "Rollespil/secondary_activities.png",
     "secondary_activities.png",
-    "Rollespil/Twilight 2000 2nd Edition/readme.md",
-    "Rollespil/Twilight 2000 2nd Edition/Pictures/background_skill_list.png",
     "Rollespil/Twilight 2000 2nd Edition/Pictures",
     "Character.md",
     "Rollespil/Twilight 2000 2nd Edition/PDF Locations/Twilight 2000 2nd/Twilight 2000 - Corerules - Player's Guide v2.2 {FFE2099}.pdf",
@@ -190,7 +196,6 @@
     "Rollespil/Twilight 2000 2nd Edition/PDF Locations/Twilight 2000 2nd/Twilight 2000 - Character Sheet 02.pdf",
     "Rollespil/Twilight 2000 2nd Edition/PDF Locations/Twilight 2000 2nd/Twilight 2000 - Character Sheet 01.pdf",
     "Rollespil/Twilight 2000 2nd Edition/PDF Locations/Twilight 2000 2nd/Small arms & equitment/Other/Twilight 2000 - Submachineguns.pdf",
-    "Rollespil/Twilight 2000 2nd Edition/PDF Locations/Twilight 2000 2nd/Small arms & equitment/Other/Twilight 2000 - WWII.pdf",
     "Welcome.md"
   ]
 }

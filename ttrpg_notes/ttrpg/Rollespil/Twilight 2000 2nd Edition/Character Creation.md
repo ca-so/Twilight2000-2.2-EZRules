@@ -1,3 +1,7 @@
+Here are the character sheets:
+[Character Sheet Usable](./PDF%20Locations/Twilight%202000%202nd/Twilight%202000%20-%20Character%20Sheet%2001.pdf)
+[Character Sheet Unusable](./PDF%20Locations/Twilight%202000%202nd/Twilight%202000%20-%20Character%20Sheet%2002.pdf)
+
 This is what we have to go through to create a character:
 - Background: Decide on nationality, gender and name
 - Attributes: Find characters stats with either rolled or point-buy
