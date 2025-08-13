@@ -1,5 +1,5 @@
 # For The Players
-ChatGPT's suggestion is to read the following in the core rulebook, to get a basic understanding of the game:
+A suggestion is to read the following in the core rulebook, to get a basic understanding of the game:
 - **Introduction**: Page 6 -14
 - **Character Creation**: Page 15 - 24
 - **Skills And Equipment**: Page 47 - 64
@@ -17,8 +17,7 @@ For GM'ing, you should read the same pages as the players and the following:
 - **Flavour**: Page 223 - 246
 - **Technical Tables**: Page 211 - 222
 
-According to ShitGPT.
-Anyway, will make easily accessible guides for what the GM needs :3
+However, there will eventually be guides for everything in this Obsidian vault. So don't stress :3
 # Secrets
 
 
