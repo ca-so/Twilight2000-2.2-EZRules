@@ -65,19 +65,19 @@ Add this to your character sheet.
 ![[background_skill_list.png]]
 ### Step 2:
 You pick any career that your character meets the requirements for and work in that career for as many terms as you want, given that war does not break out.
-For the 1st term in a career, your character gains a fixed amount of skill levels. In the following terms in the same career, they gain bonus skill levels that they freely can distribute between the available skills, as show in this picture:
+For the 1st term, your character gains a fixed amount of skill levels. In the following terms in a career, they gain bonus skill levels that they freely can distribute between the available skills, as show in this picture:
 
 ![[term_skill_levels.png]]
 *There are some additional rules for these extra skill levels, but I have decided that they are too complicated for no reason. They have therefore been removed.*
 
-Will eventually upload pictures here, but you can in the meantime find it on page 31 in the core rulebook PDF.
+You can find all the available careers on page 31 in the [Core Rulebook PDF](./PDF%20Locations/Twilight%202000%202nd/Twilight%202000%20-%20Corebook%20-%20Core%20Rulebook%20v2.2%20%7BGDW2000%7D.pdf) and what the requirements are to enter that career.
 
 ### Step 3:
 Once you have chosen a career and a secondary activity, added all the stats from that term, it is time to roll to see if you get promoted! Not all careers have promotions, but if they do they will have a special Promotion tab listed.
 
 A character is eligible for promotion once per term.
-I am a bit unsure on how promotions work, but as far as I understand you roll 1d10 and if you roll the same or higher than your promotion number, you gain a promotion.
-I think a bonus might be added (listed as DM +x) if your character meets certain requirements.
+You roll 1d10 and if you roll the same or higher than your promotion number, you gain a promotion.
+If your character meets certain requirements, a bonus is added. This is listed as DM + X, and is something you add on top of your d10 roll.
 If a character is promoted, you gain 1 additional skill in any of the available skills under your career.
 
 ### Step 4:
@@ -94,7 +94,8 @@ Everyone gets drafted into the military and receives basic training, unless it s
 Your characters career does not take up 100% of their time.
 Most careers allow 1 secondary activity.
 Some allow none and some allow 2.
-This allows the player to take one level in any skill on the following list
+Unless stated otherwise, you are allowed to pick one secondary activity per term.
+This allows the player to take one level in any skill on the following list:
 
 ![[secondary_activities.png]]
 ### Languages
@@ -214,7 +215,7 @@ American quartermasters are a bit more generous, so US characters receive an add
 
 The personal weapons can be chosen from page 51 in the [Core Rulebook PDF](./PDF%20Locations/Twilight%202000%202nd/Twilight%202000%20-%20Corebook%20-%20Core%20Rulebook%20v2.2%20%7BGDW2000%7D.pdf)
 The stats for the basic load can be found on page 64 in the PDF.
-A character may only choose a weapon from the country that are from during creation.
+A character may only choose a weapon from the country that they are from during creation.
 ### Transportation And Animals
 Only a party of 3 characters or more may roll for getting a vehicle or animal.
 For each group of 3 players, they get 1D6 to roll on the vehicle or animal table.
@@ -241,4 +242,4 @@ What equipment is available can be seen on from page 249 to 252.
 Since your characters usually start the game on the run, only equipment that can be carried or stored in the vehicle can be bought.
 
 If a new character is introduced, they cannot spawn with a vehicle (except with a motorcycle or similar) and can only carry the equipment they can carry on their person.
-However, the referee will usually allow the extra equipment they want to buy, to be airdropped in close by.
+However, the referee will usually allow the extra equipment they want to buy, to be airdropped in close by or as a hidden stash for the players to find.
