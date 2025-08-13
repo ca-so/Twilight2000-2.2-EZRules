@@ -1,8 +1,5 @@
 This is an easy overview/guide to the rules of Twilight:2000 2.2 edition.
 
-Open the folder "ttrpg_notes", then "ttrpg". Then open the folder "Rollespil" in Obsidian, and it should work! Will make this process easier soon, so you don't need to navigate so many folders first.
-
-You only need to download the folder "ttrpg_notes" and use it as a vault in Obsidian. 
 Everything from the original PDF's, to guides on how to do everything in the game is there (or will be added if it's not there yet).
 
 Here is a guide on how to set it all up as well, including how to download the files:
