@@ -22,3 +22,7 @@ Anyway, will also make easily accessible guides for what the GM needs :3
 
 
 [![Horse Fat Sticker - Horse Fat Circling - Discover & Share GIFs in 2025 |  Horses, Fat horse,](https://i.pinimg.com/originals/f7/bc/da/f7bcdade3d34a868e63a10012617699e.gif)
+
+BTW, if you want to see what is ready in this document, go to [this document](obsidian://open?vault=Rollespil&file=Twilight%202000%202nd%20Edition%2FWhat%20Is%20Ready%20In%20This%20Doc) 
+There everything that will be added and everything that is done will be listed :D
+Happy reading!

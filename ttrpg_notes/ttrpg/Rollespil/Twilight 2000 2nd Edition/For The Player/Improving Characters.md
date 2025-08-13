@@ -26,3 +26,33 @@ One point is awarded after each gunfight, awarding extra points for a particular
 These initiative points work like the experience points, but can only be used to upgrade experience.
 
 # Advancing By Observation
+Some tasks can give extra experience points, if they are observed while being performed.
+An observing character can only gain an experience point however, if the performing characters used skill is at least twice that of the observing characters.
+The task will also take longer to do, at the referee's discretion.
+
+# Advancing By Instruction
+A character may teach another a skill, thereby granting them an experience point.
+
+The teacher may teach any amount of characters, equal to their Instruction skill.
+A teacher cannot teach a skill to a character who's skill is equal to or greater than the teachers.
+
+To teach a skill is a Difficult task and must be rolled as such.
+Teaching a skill takes one period per day, for one week.
+The die is then rolled to see if the lessons were useful.
+
+If the lesson was successful, both the teacher and the student(s) gain experience points.
+Students gain skill point based on the number of students.
+Teachers gain 1 experience point.
+
+If the number of students is less than half of the teachers Instruction skill, each student gain 3 experience points.
+
+If the number of students is equal to or greater than the teachers Instruction skill, each student gain 1 experience point.
+
+# New Skills
+A character who does not have any experience in a skill, can attempt to learn it two ways.
+
+One way being through observation. If successful, the chosen skill is now level 0.
+
+The other way is through instruction. If successful, the chosen skill is now level 1.
+
+Whichever way is chosen, upgrading the skill will still cost 1 experience point.

@@ -48,9 +48,37 @@
               "icon": "lucide-file",
               "title": "Improving Characters"
             }
+          },
+          {
+            "id": "63d466c7a538f257",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Twilight 2000 2nd Edition/What Is Ready In This Doc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What Is Ready In This Doc"
+            }
+          },
+          {
+            "id": "b21c30d8f4dd479d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Twilight 2000 2nd Edition/What Is Ready In This Doc.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What Is Ready In This Doc"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Twilight 2000 2nd Edition/For The Player/Improving Characters.md",
+                "file": "Twilight 2000 2nd Edition/What Is Ready In This Doc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Improving Characters"
+              "title": "Backlinks for What Is Ready In This Doc"
             }
           },
           {
@@ -142,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Twilight 2000 2nd Edition/For The Player/Improving Characters.md",
+                "file": "Twilight 2000 2nd Edition/What Is Ready In This Doc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Improving Characters"
+              "title": "Outgoing links from What Is Ready In This Doc"
             }
           },
           {
@@ -171,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Twilight 2000 2nd Edition/For The Player/Improving Characters.md",
+                "file": "Twilight 2000 2nd Edition/What Is Ready In This Doc.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Improving Characters"
+              "title": "Outline of What Is Ready In This Doc"
             }
           }
         ]
@@ -197,18 +225,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "738e1dc2636006f6",
+  "active": "b21c30d8f4dd479d",
   "lastOpenFiles": [
+    "Twilight 2000 2nd Edition/For The Referee/NPC's.md",
+    "Twilight 2000 2nd Edition/What Is Ready In This Doc.md",
     "Twilight 2000 2nd Edition/For The Player/Character Creation.md",
-    "Twilight 2000 2nd Edition/For The Player/Improving Characters.md",
-    "Twilight 2000 2nd Edition/For The Player/Travel.md",
-    "Twilight 2000 2nd Edition/For The Player/Combat.md",
     "Twilight 2000 2nd Edition/For The Player/Rolling To Do Things.md",
+    "Twilight 2000 2nd Edition/For The Player/Improving Characters.md",
+    "Twilight 2000 2nd Edition/Read Me First!.md",
+    "Twilight 2000 2nd Edition/For The Player/Travel.md",
+    "Twilight 2000 2nd Edition/Links to PDF's.md",
+    "Twilight 2000 2nd Edition/For The Player/Combat.md",
     "Twilight 2000 2nd Edition/For The Referee",
     "Twilight 2000 2nd Edition/Asset Location",
     "Twilight 2000 2nd Edition/For The Player",
-    "Twilight 2000 2nd Edition/Links to PDF's.md",
-    "Twilight 2000 2nd Edition/Read Me First!.md",
     "Twilight 2000 2nd Edition/Asset Location/PDF Locations/Twilight 2000 2nd/Twilight 2000 - Corebook - Core Rulebook v2.2 {GDW2000}.pdf",
     "Twilight 2000 2nd Edition/Asset Location/Pictures/task_difficulty_levels.png",
     "Twilight 2000 2nd Edition/PDF Locations/Twilight 2000 2nd/Source books/Twilight 2000 - East Europe Sourcebook {GDW2017}.pdf",
