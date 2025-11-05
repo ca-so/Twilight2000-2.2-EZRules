@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Read Me First!.md",
+                "file": "For The Player/Rolling To Do Things.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Read Me First!"
+              "title": "Rolling To Do Things"
+            }
+          },
+          {
+            "id": "6d2f613f98cae7e0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,6 +173,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -168,8 +182,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12fe8d974f784eba",
+  "active": "6d2f613f98cae7e0",
   "lastOpenFiles": [
+    "For The Player/Combat.md",
+    "What Is Ready In This Doc.md",
+    "Read Me First!.md",
     "For The Player/Character Creation.md",
     "Asset Location/PDF Locations/Twilight 2000 2nd/Twilight 2000 - Corebook - Core Rulebook v2.2 {GDW2000}.pdf"
   ]
